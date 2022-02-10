@@ -124,7 +124,7 @@
     "reselect": "^4.0.0",
     "sass-loader": "^7.1.0",
     "script-loader": "^0.7.0",
-    "style-loader": "^0.23.1",
+    "style-loader": "^3.3.1",
     "webfontloader": "^1.6.27",
     "webpack": "^4.32.2",
     "webpack-cli": "^3.3.2",
